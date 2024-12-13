@@ -1,0 +1,35 @@
+# Sydsanusi Recon Suite
+
+## Overview
+Sydsanusi Recon Suite is a lightweight Python tool designed for reconnaissance tasks, including:
+- Network Scanning
+- Port Scanning
+- Fetching robots.txt
+- IP Geolocation Lookup
+- Base64 Encoding/Decoding
+
+## Usage
+1. Clone the repository:
+
+git clone https://github.com/Sanusi644/Sydsanusi-Recon-Suite.git
+
+2. Run the script:
+
+python3 sydsanusi_recon.py
+
+## Features
+1. **Network Scanner:** Pings a target IP or domain.
+2. **Port Scanner:** Scans specific ports on a target.
+3. **robots.txt Fetcher:** Fetches the robots.txt file of a website.
+4. **IP Geolocation Lookup:** Provides geolocation details for a given IP.
+5. **Base64 Encoder/Decoder:** Encodes or decodes Base64 text.
+
+---
+
+### **4. Enhance Your Tool**
+Keep enhancing your script with new features and functionality. You could add:
+- Subdomain enumeration
+- Vulnerability scanning
+- API integration with popular reconnaissance platforms.
+
+---
